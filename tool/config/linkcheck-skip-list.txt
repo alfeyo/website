@@ -13,3 +13,5 @@
 /assets/main(-[0-9a-f]+)?.css
 
 # Temporary skip rules below this point:
+
+/sitemap.*
