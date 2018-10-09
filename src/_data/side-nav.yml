@@ -125,6 +125,8 @@
   - title: Debugging
     permalink: /testing/debugging
     children:
+    - title: "Flutter's build modes"
+      permalink: /testing/build-modes
     - title: OEM debuggers
       permalink: /testing/debugging/oem
   - title: Testing
